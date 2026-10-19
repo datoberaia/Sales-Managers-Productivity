@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that compares sales managers by lead volume and profit, to show who converts leads into profit most effectively.
 
-![Dashboard preview](sales_managers_productivity.png)
+![Dashboard preview](sales managers productivity.png)
 
 ## Key Insight
 
